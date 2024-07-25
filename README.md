@@ -1,6 +1,11 @@
 # Website-Project---2
 Created a basic website using HTML, CSS, and JavaScript
-First Page:
+
+
+
+
+
+First Page Preview:
 <!DOCTYPE html>
 <html lang="en">
 <head>
